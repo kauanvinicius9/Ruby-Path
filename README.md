@@ -11,10 +11,6 @@ The goal is to demonstrate basic concepts such as data input, loops, conditional
 
 ###
 
-**Windows**
-
-###
-
 - Access: [https://rubyinstaller.org/downloads/](https://rubyinstaller.org/downloads/);
 - Download the installer: `Ruby` + `Devkit`;
 - During installation, check: *Add Ruby executables to your PATH*;
