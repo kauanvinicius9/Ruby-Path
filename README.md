@@ -24,33 +24,10 @@ The goal is to demonstrate basic concepts such as data input, loops, conditional
 ###
 ```powershell
 ruby -v
-```
-
----
-**Linux**
-
-###
-```powershell
-sudo apt update
-```
-
-###
-```powershell
-sudo apt install ruby-full
-```
 
 ###
 
-**macOS**
-
-###
-```powershell
-brew install ruby
-```
-
-###
-
-**<h2>✅ Run the application</h2>**
+## Run the Application
 
 ###
 
