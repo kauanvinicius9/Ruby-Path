@@ -20,6 +20,7 @@ The goal is to demonstrate basic concepts such as data input, loops, conditional
 ###
 ```powershell
 ruby -v
+```
 
 ###
 
